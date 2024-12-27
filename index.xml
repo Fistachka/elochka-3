@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>elochka-3</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="malenkoy-elochke"/>
   <readme>
     <ru>d30d90302205de5613076b44d5e5ed67adbb95b20927e5e6e3a22b461ab41106</ru>
@@ -48,14 +48,14 @@
     <tonalities>5</tonalities>
     <video name="3t.mp4" size="1482108" type="video/mp4" volume="0.5">dbe1b7bf03c3082caac3c4ec72d51be993da8fb469797547a652831848b7fc2e</video>
     <notes>
-      <note number="1" values="58" ticks="97" durationTicks="96" ppq="192" velocity="0.952"/>
-      <note number="2" values="6" ticks="193" durationTicks="61" ppq="192" velocity="0.957"/>
-      <note number="3" values="6" ticks="291" durationTicks="96" ppq="192" velocity="0.947"/>
-      <note number="4" values="48" ticks="390" durationTicks="55" ppq="192" velocity="0.954"/>
-      <note number="5" values="48" ticks="486" durationTicks="91" ppq="192" velocity="0.942"/>
-      <note number="6" values="38" ticks="582" durationTicks="93" ppq="192" velocity="0.952"/>
-      <note number="7" values="28" ticks="677" durationTicks="94" ppq="192" velocity="0.912"/>
-      <note number="8" values="18" ticks="771" durationTicks="98" ppq="192" velocity="0.967"/>
+      <note number="1" values="58" ticks="124" durationTicks="96" ppq="192" velocity="0.952"/>
+      <note number="2" values="6" ticks="220" durationTicks="61" ppq="192" velocity="0.957"/>
+      <note number="3" values="6" ticks="318" durationTicks="96" ppq="192" velocity="0.947"/>
+      <note number="4" values="48" ticks="417" durationTicks="55" ppq="192" velocity="0.954"/>
+      <note number="5" values="48" ticks="513" durationTicks="91" ppq="192" velocity="0.942"/>
+      <note number="6" values="38" ticks="609" durationTicks="93" ppq="192" velocity="0.952"/>
+      <note number="7" values="28" ticks="704" durationTicks="94" ppq="192" velocity="0.912"/>
+      <note number="8" values="18" ticks="798" durationTicks="98" ppq="192" velocity="0.967"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -65,12 +65,12 @@
     <tonalities>5</tonalities>
     <video name="4t.mp4" size="1268407" type="video/mp4" volume="0.5">5fdbf5e22fa49b9f35e21edb4d29044c88fefc5f6af8048c15e65d9aeab7a00d</video>
     <notes>
-      <note number="1" values="5" ticks="21" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="118" durationTicks="68" ppq="192" velocity="0.803"/>
-      <note number="3" values="38" ticks="212" durationTicks="96" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="312" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="38" ticks="405" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="18" ticks="502" durationTicks="190" ppq="192" velocity="0.819"/>
+      <note number="1" values="5" ticks="49" durationTicks="96" ppq="192" velocity="0.681"/>
+      <note number="2" values="38" ticks="146" durationTicks="68" ppq="192" velocity="0.803"/>
+      <note number="3" values="38" ticks="240" durationTicks="96" ppq="192" velocity="0.689"/>
+      <note number="4" values="28" ticks="340" durationTicks="93" ppq="192" velocity="0.784"/>
+      <note number="5" values="38" ticks="433" durationTicks="91" ppq="192" velocity="0.671"/>
+      <note number="6" values="18" ticks="530" durationTicks="190" ppq="192" velocity="0.819"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -80,14 +80,14 @@
     <tonalities>5</tonalities>
     <video name="5t.mp4" size="1399125" type="video/mp4" volume="0.5">ca675f93fcbb17bdc082a68781111b24dcb04a3b9220d5c67ea5f6e1c9172151</video>
     <notes>
-      <note number="1" values="58" ticks="96" durationTicks="82" ppq="192" velocity="0.747"/>
-      <note number="2" values="6" ticks="194" durationTicks="68" ppq="192" velocity="0.782"/>
-      <note number="3" values="6" ticks="293" durationTicks="79" ppq="192" velocity="0.669"/>
-      <note number="4" values="48" ticks="385" durationTicks="69" ppq="192" velocity="0.784"/>
-      <note number="5" values="48" ticks="486" durationTicks="83" ppq="192" velocity="0.671"/>
-      <note number="6" values="38" ticks="579" durationTicks="86" ppq="192" velocity="0.819"/>
-      <note number="7" values="28" ticks="674" durationTicks="77" ppq="192" velocity="0.719"/>
-      <note number="8" values="18" ticks="773" durationTicks="88" ppq="192" velocity="0.749"/>
+      <note number="1" values="58" ticks="90" durationTicks="82" ppq="192" velocity="0.747"/>
+      <note number="2" values="6" ticks="188" durationTicks="68" ppq="192" velocity="0.782"/>
+      <note number="3" values="6" ticks="287" durationTicks="79" ppq="192" velocity="0.669"/>
+      <note number="4" values="48" ticks="379" durationTicks="69" ppq="192" velocity="0.784"/>
+      <note number="5" values="48" ticks="480" durationTicks="83" ppq="192" velocity="0.671"/>
+      <note number="6" values="38" ticks="573" durationTicks="86" ppq="192" velocity="0.819"/>
+      <note number="7" values="28" ticks="668" durationTicks="77" ppq="192" velocity="0.719"/>
+      <note number="8" values="18" ticks="767" durationTicks="88" ppq="192" velocity="0.749"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -97,12 +97,12 @@
     <tonalities>5</tonalities>
     <video name="6t.mp4" size="1272611" type="video/mp4" volume="0.5">aa9b9d573aa720b904ebd2111216f2c829e5d6adefa17a384f3ef5cba9491126</video>
     <notes>
-      <note number="1" values="5" ticks="21" durationTicks="96" ppq="192" velocity="0.681"/>
-      <note number="2" values="38" ticks="117" durationTicks="72" ppq="192" velocity="0.803"/>
-      <note number="3" values="38" ticks="214" durationTicks="96" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="310" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="38" ticks="406" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="18" ticks="503" durationTicks="188" ppq="192" velocity="0.819"/>
+      <note number="1" values="5" ticks="47" durationTicks="96" ppq="192" velocity="0.681"/>
+      <note number="2" values="38" ticks="143" durationTicks="72" ppq="192" velocity="0.803"/>
+      <note number="3" values="38" ticks="240" durationTicks="96" ppq="192" velocity="0.689"/>
+      <note number="4" values="28" ticks="336" durationTicks="93" ppq="192" velocity="0.784"/>
+      <note number="5" values="38" ticks="432" durationTicks="91" ppq="192" velocity="0.671"/>
+      <note number="6" values="18" ticks="529" durationTicks="188" ppq="192" velocity="0.819"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -112,14 +112,14 @@
     <tonalities>5</tonalities>
     <video name="7t.mp4" size="1120258" type="video/mp4" volume="0.5">966cc490b3357058a1d7da7de17f70f0aab4d68ab5602a98b0e9530ca9e0193e</video>
     <notes>
-      <note number="1" values="5" ticks="773" durationTicks="96" ppq="192" velocity="0.677"/>
-      <note number="2" values="38" ticks="867" durationTicks="58" ppq="192" velocity="0.795"/>
-      <note number="3" values="38" ticks="965" durationTicks="96" ppq="192" velocity="0.685"/>
-      <note number="4" values="28" ticks="1059" durationTicks="93" ppq="192" velocity="0.78"/>
-      <note number="5" values="38" ticks="1154" durationTicks="91" ppq="192" velocity="0.669"/>
-      <note number="6" values="18" ticks="1251" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="5" ticks="1348" durationTicks="58" ppq="192" velocity="0.717"/>
-      <note number="8" values="5" ticks="1442" durationTicks="98" ppq="192" velocity="0.748"/>
+      <note number="1" values="5" ticks="149" durationTicks="96" ppq="192" velocity="0.677"/>
+      <note number="2" values="38" ticks="243" durationTicks="58" ppq="192" velocity="0.795"/>
+      <note number="3" values="38" ticks="341" durationTicks="96" ppq="192" velocity="0.685"/>
+      <note number="4" values="28" ticks="435" durationTicks="93" ppq="192" velocity="0.78"/>
+      <note number="5" values="38" ticks="530" durationTicks="91" ppq="192" velocity="0.669"/>
+      <note number="6" values="18" ticks="627" durationTicks="95" ppq="192" velocity="0.819"/>
+      <note number="7" values="5" ticks="724" durationTicks="58" ppq="192" velocity="0.717"/>
+      <note number="8" values="5" ticks="775" durationTicks="98" ppq="192" velocity="0.748"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -129,12 +129,12 @@
     <tonalities>5</tonalities>
     <video name="8t.mp4" size="1135583" type="video/mp4" volume="0.5">fdfddcd358e057ede55bd48f7be8ec240011417f9a983221aa106ead6c940901</video>
     <notes>
-      <note number="1" values="18" ticks="27" durationTicks="96" ppq="192" velocity="0.976"/>
-      <note number="2" values="38" ticks="123" durationTicks="59" ppq="192" velocity="0.984"/>
-      <note number="3" values="38" ticks="219" durationTicks="96" ppq="192" velocity="0.919"/>
-      <note number="4" values="48" ticks="314" durationTicks="93" ppq="192" velocity="1"/>
-      <note number="5" values="68" ticks="413" durationTicks="91" ppq="192" velocity="1"/>
-      <note number="6" values="58" ticks="507" durationTicks="95" ppq="192" velocity="1"/>
+      <note number="1" values="18" ticks="42" durationTicks="96" ppq="192" velocity="0.976"/>
+      <note number="2" values="38" ticks="138" durationTicks="59" ppq="192" velocity="0.984"/>
+      <note number="3" values="38" ticks="234" durationTicks="96" ppq="192" velocity="0.919"/>
+      <note number="4" values="48" ticks="329" durationTicks="93" ppq="192" velocity="1"/>
+      <note number="5" values="68" ticks="428" durationTicks="91" ppq="192" velocity="1"/>
+      <note number="6" values="58" ticks="522" durationTicks="95" ppq="192" velocity="1"/>
     </notes>
   </exercise>
   <exercise number="9">
@@ -144,14 +144,14 @@
     <tonalities>5</tonalities>
     <video name="9t.mp4" size="1636228" type="video/mp4" volume="0.5">5d9ad87fed47d39f4cbf1a370d30721e28b023c4ad72f3d2854bad2fb8ad03ca</video>
     <notes>
-      <note number="1" values="58" ticks="97" durationTicks="96" ppq="192" velocity="0.945"/>
-      <note number="2" values="6" ticks="193" durationTicks="61" ppq="192" velocity="0.953"/>
-      <note number="3" values="6" ticks="291" durationTicks="96" ppq="192" velocity="0.945"/>
-      <note number="4" values="48" ticks="390" durationTicks="55" ppq="192" velocity="0.953"/>
-      <note number="5" values="48" ticks="486" durationTicks="91" ppq="192" velocity="0.937"/>
-      <note number="6" values="38" ticks="582" durationTicks="93" ppq="192" velocity="0.945"/>
-      <note number="7" values="28" ticks="677" durationTicks="94" ppq="192" velocity="0.906"/>
-      <note number="8" values="18" ticks="771" durationTicks="98" ppq="192" velocity="0.961"/>
+      <note number="1" values="58" ticks="128" durationTicks="96" ppq="192" velocity="0.945"/>
+      <note number="2" values="6" ticks="224" durationTicks="61" ppq="192" velocity="0.953"/>
+      <note number="3" values="6" ticks="322" durationTicks="96" ppq="192" velocity="0.945"/>
+      <note number="4" values="48" ticks="421" durationTicks="55" ppq="192" velocity="0.953"/>
+      <note number="5" values="48" ticks="517" durationTicks="91" ppq="192" velocity="0.937"/>
+      <note number="6" values="38" ticks="613" durationTicks="93" ppq="192" velocity="0.945"/>
+      <note number="7" values="28" ticks="708" durationTicks="94" ppq="192" velocity="0.906"/>
+      <note number="8" values="18" ticks="802" durationTicks="98" ppq="192" velocity="0.961"/>
     </notes>
   </exercise>
   <exercise number="10">
@@ -161,12 +161,12 @@
     <tonalities>5</tonalities>
     <video name="10t.mp4" size="1395539" type="video/mp4" volume="0.5">3573365897882f7429da2cae5b7412a588fbf14514a2c9283fb82dce8f20787a</video>
     <notes>
-      <note number="1" values="5" ticks="21" durationTicks="96" ppq="192" velocity="0.677"/>
-      <note number="2" values="38" ticks="118" durationTicks="68" ppq="192" velocity="0.795"/>
-      <note number="3" values="38" ticks="212" durationTicks="96" ppq="192" velocity="0.685"/>
-      <note number="4" values="28" ticks="312" durationTicks="93" ppq="192" velocity="0.78"/>
-      <note number="5" values="38" ticks="405" durationTicks="91" ppq="192" velocity="0.669"/>
-      <note number="6" values="18" ticks="502" durationTicks="190" ppq="192" velocity="0.819"/>
+      <note number="1" values="5" ticks="48" durationTicks="96" ppq="192" velocity="0.677"/>
+      <note number="2" values="38" ticks="145" durationTicks="68" ppq="192" velocity="0.795"/>
+      <note number="3" values="38" ticks="239" durationTicks="96" ppq="192" velocity="0.685"/>
+      <note number="4" values="28" ticks="339" durationTicks="93" ppq="192" velocity="0.78"/>
+      <note number="5" values="38" ticks="432" durationTicks="91" ppq="192" velocity="0.669"/>
+      <note number="6" values="18" ticks="529" durationTicks="190" ppq="192" velocity="0.819"/>
     </notes>
   </exercise>
   <exercise number="11">
@@ -176,14 +176,14 @@
     <tonalities>5</tonalities>
     <video name="11t.mp4" size="1733090" type="video/mp4" volume="0.5">761a8daf3293a7ade20a888bccd4f0e5071d16e762e1a36c3470941d795ba4a0</video>
     <notes>
-      <note number="1" values="58" ticks="96" durationTicks="82" ppq="192" velocity="0.74"/>
-      <note number="2" values="6" ticks="194" durationTicks="68" ppq="192" velocity="0.78"/>
-      <note number="3" values="6" ticks="293" durationTicks="79" ppq="192" velocity="0.661"/>
-      <note number="4" values="48" ticks="385" durationTicks="69" ppq="192" velocity="0.78"/>
-      <note number="5" values="48" ticks="486" durationTicks="83" ppq="192" velocity="0.669"/>
-      <note number="6" values="38" ticks="579" durationTicks="86" ppq="192" velocity="0.819"/>
-      <note number="7" values="28" ticks="674" durationTicks="77" ppq="192" velocity="0.717"/>
-      <note number="8" values="18" ticks="773" durationTicks="88" ppq="192" velocity="0.748"/>
+      <note number="1" values="58" ticks="147" durationTicks="82" ppq="192" velocity="0.74"/>
+      <note number="2" values="6" ticks="245" durationTicks="68" ppq="192" velocity="0.78"/>
+      <note number="3" values="6" ticks="344" durationTicks="79" ppq="192" velocity="0.661"/>
+      <note number="4" values="48" ticks="436" durationTicks="69" ppq="192" velocity="0.78"/>
+      <note number="5" values="48" ticks="537" durationTicks="83" ppq="192" velocity="0.669"/>
+      <note number="6" values="38" ticks="630" durationTicks="86" ppq="192" velocity="0.819"/>
+      <note number="7" values="28" ticks="725" durationTicks="77" ppq="192" velocity="0.717"/>
+      <note number="8" values="18" ticks="824" durationTicks="88" ppq="192" velocity="0.748"/>
     </notes>
   </exercise>
   <exercise number="12">
@@ -193,12 +193,12 @@
     <tonalities>5</tonalities>
     <video name="12t.mp4" size="1520232" type="video/mp4" volume="0.5">5db94ee11c76f7356e5062f307d3117f922a0fd651973b6fbfe8cf5376417178</video>
     <notes>
-      <note number="1" values="5" ticks="18" durationTicks="96" ppq="192" velocity="0.677"/>
-      <note number="2" values="38" ticks="114" durationTicks="72" ppq="192" velocity="0.795"/>
-      <note number="3" values="38" ticks="211" durationTicks="96" ppq="192" velocity="0.685"/>
-      <note number="4" values="28" ticks="307" durationTicks="93" ppq="192" velocity="0.78"/>
-      <note number="5" values="38" ticks="403" durationTicks="91" ppq="192" velocity="0.669"/>
-      <note number="6" values="18" ticks="500" durationTicks="188" ppq="192" velocity="0.819"/>
+      <note number="1" values="5" ticks="108" durationTicks="96" ppq="192" velocity="0.677"/>
+      <note number="2" values="38" ticks="204" durationTicks="72" ppq="192" velocity="0.795"/>
+      <note number="3" values="38" ticks="301" durationTicks="96" ppq="192" velocity="0.685"/>
+      <note number="4" values="28" ticks="397" durationTicks="93" ppq="192" velocity="0.78"/>
+      <note number="5" values="38" ticks="493" durationTicks="91" ppq="192" velocity="0.669"/>
+      <note number="6" values="18" ticks="590" durationTicks="188" ppq="192" velocity="0.819"/>
     </notes>
   </exercise>
 </level>
