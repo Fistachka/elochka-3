@@ -39,7 +39,8 @@ Hа праздник к нам пришла
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/BgJB5xBsfRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-![pexels-landsmann-803094805-29875484](https://github.com/user-attachments/assets/c4e15cab-b785-486c-902f-376c6ccb9a71)
+![christmas-tree-6924746_1280](https://github.com/user-attachments/assets/25f5f60b-8cf5-4771-9531-baf9712795d9)
+
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -80,5 +81,6 @@ Video by https://bigpapamedia.ru/
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/YCLLH9vrCOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-![pexels-landsmann-803094805-29875484](https://github.com/user-attachments/assets/c4e15cab-b785-486c-902f-376c6ccb9a71)
+![christmas-tree-6924746_1280](https://github.com/user-attachments/assets/25f5f60b-8cf5-4771-9531-baf9712795d9)
+
 <br><br>
