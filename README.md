@@ -37,7 +37,7 @@ Hа праздник к нам пришла
 И много, много радости
 Детишкам принесла!
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/BgJB5xBsfRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ROFn-Re_g8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 ![christmas-tree-6924746_1280](https://github.com/user-attachments/assets/25f5f60b-8cf5-4771-9531-baf9712795d9)
 
@@ -79,7 +79,7 @@ Video by https://bigpapamedia.ru/
  While all the children dance and sing
  To greet it with delight! (2 times)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/YCLLH9vrCOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/DKpNida42Nc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 ![christmas-tree-6924746_1280](https://github.com/user-attachments/assets/25f5f60b-8cf5-4771-9531-baf9712795d9)
 
